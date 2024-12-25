@@ -15,12 +15,14 @@ public class Principal {
         ConsultaConversion consulta = new ConsultaConversion();
         try {
             Conversion conversion = consulta.busquedaConversion("COP","USD");
+            System.out.println(conversion);
         } catch (RuntimeException e) {
             System.out.println(e.getMessage());
             System.out.println("Finalizando");
+
         }
 
-        System.out.println(conversion);
+
 
 
     }
