@@ -1,0 +1,1610 @@
+[
+  {
+    "País": "AFGANISTÁN",
+    "Divisa": "Afgani afgano",
+    "Código": "AFN",
+    "Número": "971"
+  },
+  {
+    "País": "ISLAS ÅLAND",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ALBANIA",
+    "Divisa": "Lek",
+    "Código": "ALL",
+    "Número": "008"
+  },
+  {
+    "País": "ALGERIA",
+    "Divisa": "Dinar argelino",
+    "Código": "DZD",
+    "Número": "012"
+  },
+  {
+    "País": "SAMOA AMERICANA",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "ANDORRA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ANGOLA",
+    "Divisa": "Kwanza angoleño",
+    "Código": "AOA",
+    "Número": "973"
+  },
+  {
+    "País": "ANGUILLA",
+    "Divisa": "Dólar del Caribe Oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "ANTÁRTICA",
+    "Divisa": "Sin divisa universal",
+    "Código": "",
+    "Número": ""
+  },
+  {
+    "País": "ANTIGUA Y BARBUDA",
+    "Divisa": "Dólar del Caribe Oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "ARGENTINA",
+    "Divisa": "Peso argentino",
+    "Código": "ARS",
+    "Número": "032"
+  },
+  {
+    "País": "ARMENIA",
+    "Divisa": "Dram armenio",
+    "Código": "AMD",
+    "Número": "051"
+  },
+  {
+    "País": "ARUBA",
+    "Divisa": "Florín arubeño",
+    "Código": "AWG",
+    "Número": "533"
+  },
+  {
+    "País": "AUSTRALIA",
+    "Divisa": "Dólar australiano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "AUSTRIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "AZERBAIYÁN",
+    "Divisa": "Manat azerbaiyano",
+    "Código": "AZN",
+    "Número": "944"
+  },
+  {
+    "País": "BAHAMAS (LAS)",
+    "Divisa": "Dólar bahameño",
+    "Código": "BSD",
+    "Número": "044"
+  },
+  {
+    "País": "BARÉIN",
+    "Divisa": "Dinar bareiní",
+    "Código": "BHD",
+    "Número": "048"
+  },
+  {
+    "País": "BANGLADESH",
+    "Divisa": "Taka",
+    "Código": "BDT",
+    "Número": "050"
+  },
+  {
+    "País": "BARBADOS",
+    "Divisa": "Dólar de Barbados",
+    "Código": "BBD",
+    "Número": "052"
+  },
+  {
+    "País": "BIELORRUSIA",
+    "Divisa": "Rublo bielorruso",
+    "Código": "BYR",
+    "Número": "974"
+  },
+  {
+    "País": "BÉLGICA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "BELICE",
+    "Divisa": "Dólar beliceño",
+    "Código": "BZD",
+    "Número": "084"
+  },
+  {
+    "País": "BENÍN",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "BERMUDA",
+    "Divisa": "Dólar bermudeño",
+    "Código": "BMD",
+    "Número": "060"
+  },
+  {
+    "País": "BUTÁN",
+    "Divisa": "Ngultrum butanés",
+    "Código": "BTN",
+    "Número": "064"
+  },
+  {
+    "País": "BUTÁN",
+    "Divisa": "Rupia india",
+    "Código": "INR",
+    "Número": "356"
+  },
+  {
+    "País": "BOLIVIA (ESTADO PLURINACIONAL DE)",
+    "Divisa": "Boliviano",
+    "Código": "BOB",
+    "Número": "068"
+  },
+  {
+    "País": "BOLIVIA (ESTADO PLURINACIONAL DE)",
+    "Divisa": "Mvdol",
+    "Código": "BOV",
+    "Número": "984"
+  },
+  {
+    "País": "BONAIRE, SAN EUSTAQUIO Y SABA",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "BOSNIA Y HERZEGOVINA",
+    "Divisa": "Marco bosnioherzegovino",
+    "Código": "BAM",
+    "Número": "977"
+  },
+  {
+    "País": "BOTSUANA",
+    "Divisa": "Pula",
+    "Código": "BWP",
+    "Número": "072"
+  },
+  {
+    "País": "ISLA BOUVET",
+    "Divisa": "Corona noruega",
+    "Código": "NOK",
+    "Número": "578"
+  },
+  {
+    "País": "BRASIL",
+    "Divisa": "Real brasileño",
+    "Código": "BRL",
+    "Número": "986"
+  },
+  {
+    "País": "TERRITORIO BRITÁNICO DEL OCÉANO ÍNDICO",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "BRUNÉI DARUSSALAM",
+    "Divisa": "Dólar de Brunei",
+    "Código": "BND",
+    "Número": "096"
+  },
+  {
+    "País": "BULGARIA",
+    "Divisa": "Lev",
+    "Código": "BGN",
+    "Número": "975"
+  },
+  {
+    "País": "BURKINA FASO",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "BURUNDI",
+    "Divisa": "Franco burundés",
+    "Código": "BIF",
+    "Número": "108"
+  },
+  {
+    "País": "CABO VERDE",
+    "Divisa": "Escudo caboverdiano",
+    "Código": "CVE",
+    "Número": "132"
+  },
+  {
+    "País": "CAMBOYA",
+    "Divisa": "Riel camboyano",
+    "Código": "KHR",
+    "Número": "116"
+  },
+  {
+    "País": "CAMERÚN",
+    "Divisa": "Franco CFA de África Central",
+    "Código": "XAF",
+    "Número": "950"
+  },
+  {
+    "País": "CANADÁ",
+    "Divisa": "Dólar canadiense",
+    "Código": "CAD",
+    "Número": "124"
+  },
+  {
+    "País": "ISLAS CAIMÁN (LAS)",
+    "Divisa": "Dólar de las Islas Cayman",
+    "Código": "KYD",
+    "Número": "136"
+  },
+  {
+    "País": "REPÚBLICA CENTROAFRICANA (LA)",
+    "Divisa": "Franco CFA de África Central",
+    "Código": "XAF",
+    "Número": "950"
+  },
+  {
+    "País": "CHAD",
+    "Divisa": "Franco CFA de África Central",
+    "Código": "XAF",
+    "Número": "950"
+  },
+  {
+    "País": "CHILE",
+    "Divisa": "Unidad de Fomento",
+    "Código": "CLF",
+    "Número": "990"
+  },
+  {
+    "País": "CHILE",
+    "Divisa": "Peso chileno",
+    "Código": "CLP",
+    "Número": "152"
+  },
+  {
+    "País": "CHINA",
+    "Divisa": "Renminbi",
+    "Código": "CNY",
+    "Número": "156"
+  },
+  {
+    "País": "ISLA DE NAVIDAD",
+    "Divisa": "Dólar australiano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "ISLAS COCOS (KEELING)",
+    "Divisa": "Dólar australiano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "COLOMBIA",
+    "Divisa": "Peso colombiano",
+    "Código": "COP",
+    "Número": "170"
+  },
+  {
+    "País": "COLOMBIA",
+    "Divisa": "Unidad de valor real",
+    "Código": "COU",
+    "Número": "970"
+  },
+  {
+    "País": "COMORAS",
+    "Divisa": "Franco comorense",
+    "Código": "KMF",
+    "Número": "174"
+  },
+  {
+    "País": "CONGO (REPÚBLICA DEMOCRÁTIC DEL)",
+    "Divisa": "Franco congoleño",
+    "Código": "CDF",
+    "Número": "976"
+  },
+  {
+    "País": "CONGO (EL)",
+    "Divisa": "Franco CFA de África Central",
+    "Código": "XAF",
+    "Número": "950"
+  },
+  {
+    "País": "ISLAS COOK (LAS)",
+    "Divisa": "Dólar de la Islas Cook",
+    "Código": "NZD",
+    "Número": "554"
+  },
+  {
+    "País": "COSTA RICA",
+    "Divisa": "Colón costarricense",
+    "Código": "CRC",
+    "Número": "188"
+  },
+  {
+    "País": "COSTA DE MARFIL",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "CROACIA",
+    "Divisa": "Kuna",
+    "Código": "HRK",
+    "Número": "191"
+  },
+  {
+    "País": "CUBA",
+    "Divisa": "Peso convertible",
+    "Código": "CUC",
+    "Número": "931"
+  },
+  {
+    "País": "CUBA",
+    "Divisa": "Peso cubano",
+    "Código": "CUP",
+    "Número": "192"
+  },
+  {
+    "País": "CURAZAO",
+    "Divisa": "Florín antillano neerlandés",
+    "Código": "ANG",
+    "Número": "532"
+  },
+  {
+    "País": "CHIPRE",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "REPÚBLICA CHECA",
+    "Divisa": "Czech Koruna",
+    "Código": "CZK",
+    "Número": "203"
+  },
+  {
+    "País": "DINAMARCA",
+    "Divisa": "Corona danesa",
+    "Código": "DKK",
+    "Número": "208"
+  },
+  {
+    "País": "YIBUTI",
+    "Divisa": "Franco yibutiano",
+    "Código": "DJF",
+    "Número": "262"
+  },
+  {
+    "País": "DOMINICA",
+    "Divisa": "Dólar del Caribe Oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "REPÚBLICA DOMINICANA",
+    "Divisa": "Peso dominicano",
+    "Código": "DOP",
+    "Número": "214"
+  },
+  {
+    "País": "ECUADOR",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "EGIPTO",
+    "Divisa": "Libra egipcia",
+    "Código": "EGP",
+    "Número": "818"
+  },
+  {
+    "País": "EL SALVADOR",
+    "Divisa": "Colón",
+    "Código": "SVC",
+    "Número": "222"
+  },
+  {
+    "País": "EL SALVADOR",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "GUINEA ECUATORIAL",
+    "Divisa": "Franco CFA de África Central",
+    "Código": "XAF",
+    "Número": "950"
+  },
+  {
+    "País": "ERITREA",
+    "Divisa": "Nakfa",
+    "Código": "ERN",
+    "Número": "232"
+  },
+  {
+    "País": "ESTONIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ETIOPÍA",
+    "Divisa": "Birr etíope",
+    "Código": "ETB",
+    "Número": "230"
+  },
+  {
+    "País": "UNIÓN EUROPEA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ISLAS MALVINAS",
+    "Divisa": "Libra malvinense",
+    "Código": "FKP",
+    "Número": "238"
+  },
+  {
+    "País": "ISLAS FAROE",
+    "Divisa": "Corona danesa",
+    "Código": "DKK",
+    "Número": "208"
+  },
+  {
+    "País": "FIJI",
+    "Divisa": "Dólar fiyiano",
+    "Código": "FJD",
+    "Número": "242"
+  },
+  {
+    "País": "FINLANDIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "FRANCIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "GUYANA FRANCESA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "POLINESIA FRANCESA",
+    "Divisa": "Franco CFP",
+    "Código": "XPF",
+    "Número": "953"
+  },
+  {
+    "País": "TERRITORIOS AUSTRALES FRANCESES",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "GABÓN",
+    "Divisa": "Franco CFA de África Central",
+    "Código": "XAF",
+    "Número": "950"
+  },
+  {
+    "País": "GAMBIA",
+    "Divisa": "Dalasi",
+    "Código": "GMD",
+    "Número": "270"
+  },
+  {
+    "País": "GEORGIA",
+    "Divisa": "Lari",
+    "Código": "GEL",
+    "Número": "981"
+  },
+  {
+    "País": "ALEMANIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "GHANA",
+    "Divisa": "Cedi",
+    "Código": "GHS",
+    "Número": "936"
+  },
+  {
+    "País": "GIBRALTAR",
+    "Divisa": "Libra gibraltareña",
+    "Código": "GIP",
+    "Número": "292"
+  },
+  {
+    "País": "GRECIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "GROENLANDIA",
+    "Divisa": "Corona danesa",
+    "Código": "DKK",
+    "Número": "208"
+  },
+  {
+    "País": "GRANADA",
+    "Divisa": "Dólar del Caribe Oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "GUADALUPE",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "GUAM",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "GUATEMALA",
+    "Divisa": "Quetzal",
+    "Código": "GTQ",
+    "Número": "320"
+  },
+  {
+    "País": "GUERNSEY",
+    "Divisa": "Libra esterlina",
+    "Código": "GBP",
+    "Número": "826"
+  },
+  {
+    "País": "GUINEA",
+    "Divisa": "Franco guineano",
+    "Código": "GNF",
+    "Número": "324"
+  },
+  {
+    "País": "GUINEA-BISSAU",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "GUYANA",
+    "Divisa": "Dólar guyanés",
+    "Código": "GYD",
+    "Número": "328"
+  },
+  {
+    "País": "HAITÍ",
+    "Divisa": "Gourde",
+    "Código": "HTG",
+    "Número": "332"
+  },
+  {
+    "País": "HAITÍ",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "ISLAS HEARD Y McDONALD",
+    "Divisa": "Dólar australiano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "SANTA SEDE",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "HONDURAS",
+    "Divisa": "Lempira",
+    "Código": "HNL",
+    "Número": "340"
+  },
+  {
+    "País": "HONG KONG",
+    "Divisa": "Dólar de Hong Kong",
+    "Código": "HKD",
+    "Número": "344"
+  },
+  {
+    "País": "HUNGRÍA",
+    "Divisa": "Forinto húngaro",
+    "Código": "HUF",
+    "Número": "348"
+  },
+  {
+    "País": "ISLANDIA",
+    "Divisa": "Corona islandesa",
+    "Código": "ISK",
+    "Número": "352"
+  },
+  {
+    "País": "INDIA",
+    "Divisa": "Rupia india",
+    "Código": "INR",
+    "Número": "356"
+  },
+  {
+    "País": "INDONESIA",
+    "Divisa": "Rupia indonesia",
+    "Código": "IDR",
+    "Número": "360"
+  },
+  {
+    "País": "FONDO MONETARIO INTERNACIONAL",
+    "Divisa": "SDR (Derecho Especial de Retiro)",
+    "Código": "XDR",
+    "Número": "960"
+  },
+  {
+    "País": "REPÚBLICA ISLAMICA DE IRÁN",
+    "Divisa": "Rial iraní",
+    "Código": "IRR",
+    "Número": "364"
+  },
+  {
+    "País": "IRAK",
+    "Divisa": "Dinar iraquí ",
+    "Código": "IQD",
+    "Número": "368"
+  },
+  {
+    "País": "IRLANDA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ISLA DE MAN",
+    "Divisa": "Libra esterlina",
+    "Código": "GBP",
+    "Número": "826"
+  },
+  {
+    "País": "ISRAEL",
+    "Divisa": "Nuevo séquel",
+    "Código": "ILS",
+    "Número": "376"
+  },
+  {
+    "País": "ITALIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "JAMAICA",
+    "Divisa": "Dólar jamaiquino",
+    "Código": "JMD",
+    "Número": "388"
+  },
+  {
+    "País": "JAPÓN",
+    "Divisa": "Yen",
+    "Código": "JPY",
+    "Número": "392"
+  },
+  {
+    "País": "JERSEY",
+    "Divisa": "Libra esterlina",
+    "Código": "GBP",
+    "Número": "826"
+  },
+  {
+    "País": "JORDANIA",
+    "Divisa": "Dinar jordano",
+    "Código": "JOD",
+    "Número": "400"
+  },
+  {
+    "País": "KAZAJISTÁN",
+    "Divisa": "Tenge kazajo",
+    "Código": "KZT",
+    "Número": "398"
+  },
+  {
+    "País": "KENIA",
+    "Divisa": "Chelín keniano",
+    "Código": "KES",
+    "Número": "404"
+  },
+  {
+    "País": "KIRIBATI",
+    "Divisa": "Dólar australiano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "REPÚBLICA DEMOCRATICA DE COREA DEL NORTE",
+    "Divisa": "Won norcoreano",
+    "Código": "KPW",
+    "Número": "408"
+  },
+  {
+    "País": "REPÚBLICA DE COREA DEL SUR",
+    "Divisa": "Won ",
+    "Código": "KRW",
+    "Número": "410"
+  },
+  {
+    "País": "KUWAIT",
+    "Divisa": "Dinar kuwaití",
+    "Código": "KWD",
+    "Número": "414"
+  },
+  {
+    "País": "KIRGUISTÁN",
+    "Divisa": "Som",
+    "Código": "KGS",
+    "Número": "417"
+  },
+  {
+    "País": "REPUBLICA DEMOCRÁTICA POPULAR LAO",
+    "Divisa": "Kip laosiano",
+    "Código": "LAK",
+    "Número": "418"
+  },
+  {
+    "País": "LETONIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "LÍBANO",
+    "Divisa": "Libra libanesa",
+    "Código": "LBP",
+    "Número": "422"
+  },
+  {
+    "País": "LESOTO",
+    "Divisa": "Loti",
+    "Código": "LSL",
+    "Número": "426"
+  },
+  {
+    "País": "LESOTO",
+    "Divisa": "Rand",
+    "Código": "ZAR",
+    "Número": "710"
+  },
+  {
+    "País": "LIBERIA",
+    "Divisa": "Dólar liberiano",
+    "Código": "LRD",
+    "Número": "430"
+  },
+  {
+    "País": "LIBIA",
+    "Divisa": "Dinar libio",
+    "Código": "LYD",
+    "Número": "434"
+  },
+  {
+    "País": "LIECHTENSTEIN",
+    "Divisa": "Franco suizo",
+    "Código": "CHF",
+    "Número": "756"
+  },
+  {
+    "País": "LITUANIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "LUXEMBURGO",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "MACAO",
+    "Divisa": "Pataca",
+    "Código": "MOP",
+    "Número": "446"
+  },
+  {
+    "País": "MACEDONIA",
+    "Divisa": "Dinar",
+    "Código": "MKD",
+    "Número": "807"
+  },
+  {
+    "País": "MADAGASCAR",
+    "Divisa": "Ariary malgache",
+    "Código": "MGA",
+    "Número": "969"
+  },
+  {
+    "País": "MALAWI",
+    "Divisa": "Kwacha malauí",
+    "Código": "MWK",
+    "Número": "454"
+  },
+  {
+    "País": "MALASIA",
+    "Divisa": "Ringgit malayo",
+    "Código": "MYR",
+    "Número": "458"
+  },
+  {
+    "País": "MALDIVAS",
+    "Divisa": "Rupia de maldivas",
+    "Código": "MVR",
+    "Número": "462"
+  },
+  {
+    "País": "MALÍ",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "MALTA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ISLAS MARSHALL",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "MARTINICA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "MAURITANIA",
+    "Divisa": "Uguiya",
+    "Código": "MRO",
+    "Número": "478"
+  },
+  {
+    "País": "MAURICIO",
+    "Divisa": "Rupia de Mauricio",
+    "Código": "MUR",
+    "Número": "480"
+  },
+  {
+    "País": "MAYOTTE",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "PAISES MIEMBROS DEL BANCO AFRICANO DE DESARROLLO",
+    "Divisa": "BAD UNIDAD DE CUENTAS",
+    "Código": "XUA",
+    "Número": "965"
+  },
+  {
+    "País": "MÉXICO",
+    "Divisa": "Peso mexicano",
+    "Código": "MXN",
+    "Número": "484"
+  },
+  {
+    "País": "MÉXICO",
+    "Divisa": "Unidad de Inversion Mexicana(UDI)",
+    "Código": "MXV",
+    "Número": "979"
+  },
+  {
+    "País": "MICRONESIA",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "REPÚBLICA DE MOLDAVIA",
+    "Divisa": "Leu Moldavo",
+    "Código": "MDL",
+    "Número": "498"
+  },
+  {
+    "País": "MÓNACO",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "MONGOLIA",
+    "Divisa": "Tugrik",
+    "Código": "MNT",
+    "Número": "496"
+  },
+  {
+    "País": "MONTENEGRO",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "MONTSERRAT",
+    "Divisa": "Dólar del Caribe oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "MARRUECOS",
+    "Divisa": "Dírham marroquí",
+    "Código": "MAD",
+    "Número": "504"
+  },
+  {
+    "País": "MOZAMBIQUE",
+    "Divisa": "Metical mozambiqueño",
+    "Código": "MZN",
+    "Número": "943"
+  },
+  {
+    "País": "BIRMANIA",
+    "Divisa": "Kyat birmano",
+    "Código": "MMK",
+    "Número": "104"
+  },
+  {
+    "País": "NAMIBIA",
+    "Divisa": "Dólar de Namibia",
+    "Código": "NAD",
+    "Número": "516"
+  },
+  {
+    "País": "NAMIBIA",
+    "Divisa": "Rand",
+    "Código": "ZAR",
+    "Número": "710"
+  },
+  {
+    "País": "NAURU",
+    "Divisa": "Dólar australiano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "NEPAL",
+    "Divisa": "Rupia nepalí",
+    "Código": "NPR",
+    "Número": "524"
+  },
+  {
+    "País": "HOLANDA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "NUEVA CALEDONIA",
+    "Divisa": "Franco CFP",
+    "Código": "XPF",
+    "Número": "953"
+  },
+  {
+    "País": "NUEVA ZELANDA",
+    "Divisa": "Dólar neozelandés",
+    "Código": "NZD",
+    "Número": "554"
+  },
+  {
+    "País": "NICARAGUA",
+    "Divisa": "Córdoba oro",
+    "Código": "NIO",
+    "Número": "558"
+  },
+  {
+    "País": "NIGERIA",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "NIGERIA",
+    "Divisa": "Naira",
+    "Código": "NGN",
+    "Número": "566"
+  },
+  {
+    "País": "NIUE",
+    "Divisa": "Dólar neozelandés",
+    "Código": "NZD",
+    "Número": "554"
+  },
+  {
+    "País": "ISLA NORFOLK",
+    "Divisa": "Dólar australiano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "ISLAS MARIANS DEL NORTE",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "NORUEGA",
+    "Divisa": "Corona noruega",
+    "Código": "NOK",
+    "Número": "578"
+  },
+  {
+    "País": "OMÁN",
+    "Divisa": "Rial omaní",
+    "Código": "OMR",
+    "Número": "512"
+  },
+  {
+    "País": "PAKISTÁN",
+    "Divisa": "Rupia pakistaní",
+    "Código": "PKR",
+    "Número": "586"
+  },
+  {
+    "País": "PALAU",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "ESTADO DE PALESTINA",
+    "Divisa": "Sin divisa universal",
+    "Código": "",
+    "Número": ""
+  },
+  {
+    "País": "PANAMÁ",
+    "Divisa": "Balboa",
+    "Código": "PAB",
+    "Número": "590"
+  },
+  {
+    "País": "PANAMÁ",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "PAPÚA NUEVA GUINEA",
+    "Divisa": "Kina",
+    "Código": "PGK",
+    "Número": "598"
+  },
+  {
+    "País": "PARAGUAY",
+    "Divisa": "Guaraní",
+    "Código": "PYG",
+    "Número": "600"
+  },
+  {
+    "País": "PERU",
+    "Divisa": "Nuevo Sol",
+    "Código": "PEN",
+    "Número": "604"
+  },
+  {
+    "País": "FILIPINAS",
+    "Divisa": "Peso filipino",
+    "Código": "PHP",
+    "Número": "608"
+  },
+  {
+    "País": "PITCAIRN",
+    "Divisa": "Dólar neozelandés",
+    "Código": "NZD",
+    "Número": "554"
+  },
+  {
+    "País": "POLONIA",
+    "Divisa": "Zloty",
+    "Código": "PLN",
+    "Número": "985"
+  },
+  {
+    "País": "PORTUGAL",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "PUERTO RICO",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "QATAR",
+    "Divisa": "Riyal catarí",
+    "Código": "QAR",
+    "Número": "634"
+  },
+  {
+    "País": "REUNIÓN",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "RUMANIA",
+    "Divisa": "Leu rumano",
+    "Código": "RON",
+    "Número": "946"
+  },
+  {
+    "País": "RUSIA",
+    "Divisa": "Rublo ruso",
+    "Código": "RUB",
+    "Número": "643"
+  },
+  {
+    "País": "RUANDA",
+    "Divisa": "Franco ruandés",
+    "Código": "RWF",
+    "Número": "646"
+  },
+  {
+    "País": "SAN BARTOLOMÉ",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "SANTA HELENA ASCENCIÓN Y TRISTÁN DE ACUÑA",
+    "Divisa": "Libra de Santa Helena",
+    "Código": "SHP",
+    "Número": "654"
+  },
+  {
+    "País": "SAN CRISTÓBAL Y NIEVES",
+    "Divisa": "Dólar del Caribe oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "SANTA LUCÍA",
+    "Divisa": "Dólar del Caribe oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "SAN MARTÍN",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "SAN PEDRO Y MIQUELÓN",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "SAN VICENTE Y LAS GRANADINAS",
+    "Divisa": "Dólar del Caribe oriental",
+    "Código": "XCD",
+    "Número": "951"
+  },
+  {
+    "País": "SAMOA",
+    "Divisa": "Tala",
+    "Código": "WST",
+    "Número": "882"
+  },
+  {
+    "País": "SAN MARINO",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "SAN TOMÉ Y PRÍNCIPE",
+    "Divisa": "Dobra",
+    "Código": "STD",
+    "Número": "678"
+  },
+  {
+    "País": "ARABIA SAUDITA",
+    "Divisa": "Riyal saudí",
+    "Código": "SAR",
+    "Número": "682"
+  },
+  {
+    "País": "SENEGAL",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "SERBIA",
+    "Divisa": "Dinar serbio",
+    "Código": "RSD",
+    "Número": "941"
+  },
+  {
+    "País": "SEYCHELLES",
+    "Divisa": "Rupia de Seychelles",
+    "Código": "SCR",
+    "Número": "690"
+  },
+  {
+    "País": "SIERRA LEONA",
+    "Divisa": "Leone",
+    "Código": "SLL",
+    "Número": "694"
+  },
+  {
+    "País": "SINGAPUR",
+    "Divisa": "Dólar de Singapur",
+    "Código": "SGD",
+    "Número": "702"
+  },
+  {
+    "País": "SAN MARTÍN (PARTE HOLANDESA)",
+    "Divisa": "Florín holandés",
+    "Código": "ANG",
+    "Número": "532"
+  },
+  {
+    "País": "SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS &quot;SUCRE&quot;",
+    "Divisa": "Sucre",
+    "Código": "XSU",
+    "Número": "994"
+  },
+  {
+    "País": "ESLOVAQUIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ESLOVENIA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "ISLAS SALOMÓN",
+    "Divisa": "Dólar de Islas Salomón",
+    "Código": "SBD",
+    "Número": "090"
+  },
+  {
+    "País": "SOMALIA",
+    "Divisa": "Chelín somalí",
+    "Código": "SOS",
+    "Número": "706"
+  },
+  {
+    "País": "SUDÁFRICA",
+    "Divisa": "Rand",
+    "Código": "ZAR",
+    "Número": "710"
+  },
+  {
+    "País": "ISLAS GEORGIA DEL SUR Y SÁNDWICH DEL SUR",
+    "Divisa": "Sin divisa universal",
+    "Código": "",
+    "Número": ""
+  },
+  {
+    "País": "SUDÁN DEL SUR",
+    "Divisa": "Libra sursudanesa",
+    "Código": "SSP",
+    "Número": "728"
+  },
+  {
+    "País": "ESPAÑA",
+    "Divisa": "Euro",
+    "Código": "EUR",
+    "Número": "978"
+  },
+  {
+    "País": "SRI LANKA",
+    "Divisa": "Rupia de Sri Lanka",
+    "Código": "LKR",
+    "Número": "144"
+  },
+  {
+    "País": "SUDÁN",
+    "Divisa": "Libra sudanesa",
+    "Código": "SDG",
+    "Número": "938"
+  },
+  {
+    "País": "SURINAM",
+    "Divisa": "Dólar de Surinam",
+    "Código": "SRD",
+    "Número": "968"
+  },
+  {
+    "País": "ISLAS SVALBARD Y JAN MAYEN",
+    "Divisa": "Corona noruega",
+    "Código": "NOK",
+    "Número": "578"
+  },
+  {
+    "País": "SUAZILANDIA",
+    "Divisa": "Lilangeni",
+    "Código": "SZL",
+    "Número": "748"
+  },
+  {
+    "País": "SUECIA",
+    "Divisa": "Corona sueca",
+    "Código": "SEK",
+    "Número": "752"
+  },
+  {
+    "País": "SUIZA",
+    "Divisa": "WIR Euro",
+    "Código": "CHE",
+    "Número": "947"
+  },
+  {
+    "País": "SUIZA",
+    "Divisa": "Franco suizo",
+    "Código": "CHF",
+    "Número": "756"
+  },
+  {
+    "País": "SUIZA",
+    "Divisa": "Franco WIR",
+    "Código": "CHW",
+    "Número": "948"
+  },
+  {
+    "País": "REPÚBLICA ÁRABE SIRIA",
+    "Divisa": "Libra siria",
+    "Código": "SYP",
+    "Número": "760"
+  },
+  {
+    "País": "TAIWÁN (PROVINCIA DE CHINA)",
+    "Divisa": "Nuevo dólar de Taiwán",
+    "Código": "TWD",
+    "Número": "901"
+  },
+  {
+    "País": "TAJIKISTÁN",
+    "Divisa": "Somoni",
+    "Código": "TJS",
+    "Número": "972"
+  },
+  {
+    "País": "REPÚBLICA UNIDA DE TANZANIA",
+    "Divisa": "Chelín tanzano",
+    "Código": "TZS",
+    "Número": "834"
+  },
+  {
+    "País": "TAILANDIA",
+    "Divisa": "Baht",
+    "Código": "THB",
+    "Número": "764"
+  },
+  {
+    "País": "TIMOR ORIENTAL",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "TOGO",
+    "Divisa": "Franco CFA de África Occidental",
+    "Código": "XOF",
+    "Número": "952"
+  },
+  {
+    "País": "TOKELAU",
+    "Divisa": "Dólar neozelandés",
+    "Código": "NZD",
+    "Número": "554"
+  },
+  {
+    "País": "TONGA",
+    "Divisa": "Pa&rsquo;anga",
+    "Código": "TOP",
+    "Número": "776"
+  },
+  {
+    "País": "TRINIDAD Y TOBAGO",
+    "Divisa": "Dólar de Trinidad y Tobago",
+    "Código": "TTD",
+    "Número": "780"
+  },
+  {
+    "País": "TÚNEZ",
+    "Divisa": "Dinar tunecino",
+    "Código": "TND",
+    "Número": "788"
+  },
+  {
+    "País": "TURQUÍA",
+    "Divisa": "Lira turca",
+    "Código": "TRY",
+    "Número": "949"
+  },
+  {
+    "País": "TURMENISTÁN",
+    "Divisa": "Manat turcomano",
+    "Código": "TMT",
+    "Número": "934"
+  },
+  {
+    "País": "ISLAS TURCOS Y CAICOS ",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "TUVALU",
+    "Divisa": "Dólar tuvaluano",
+    "Código": "AUD",
+    "Número": "036"
+  },
+  {
+    "País": "UGANDA",
+    "Divisa": "Chelín ugandés",
+    "Código": "UGX",
+    "Número": "800"
+  },
+  {
+    "País": "UKRANIA",
+    "Divisa": "Grivnia",
+    "Código": "UAH",
+    "Número": "980"
+  },
+  {
+    "País": "EMIRATOS ÁRABES UNIDOS",
+    "Divisa": "Dirham DE EAU",
+    "Código": "AED",
+    "Número": "784"
+  },
+  {
+    "País": "REINO UNIDO DE GRAN BRETAÑA E IRLANDA DEL NORTE",
+    "Divisa": "Libra esterlina",
+    "Código": "GBP",
+    "Número": "826"
+  },
+  {
+    "País": "ISLAS ULTRAMARINAS MENORES DE EE. UU.",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "ESTADOS UNIDOS DE AMÉRICA",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "ESTADOS UNIDOS DE AMÉRICA",
+    "Divisa": "Dólar estadounidense (Next day)",
+    "Código": "USN",
+    "Número": "997"
+  },
+  {
+    "País": "URUGUAY",
+    "Divisa": "Peso uruguayo en unidades indexadas (URUIURUI)",
+    "Código": "UYI",
+    "Número": "940"
+  },
+  {
+    "País": "URUGUAY",
+    "Divisa": "Peso uruguayo",
+    "Código": "UYU",
+    "Número": "858"
+  },
+  {
+    "País": "UZBEKISTÁN",
+    "Divisa": "Som uzbeko",
+    "Código": "UZS",
+    "Número": "860"
+  },
+  {
+    "País": "VANUATU",
+    "Divisa": "Vatu",
+    "Código": "VUV",
+    "Número": "548"
+  },
+  {
+    "País": "REPÚBLICA BOLIVARIANA DE VENEZUELA",
+    "Divisa": "Bolívar",
+    "Código": "VEF",
+    "Número": "937"
+  },
+  {
+    "País": "VIETNAM",
+    "Divisa": "Dong",
+    "Código": "VND",
+    "Número": "704"
+  },
+  {
+    "País": "ISLAS VÍRGENES BRITÁNICAS",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "ISLAS VÍRGENES (EEUU)",
+    "Divisa": "Dólar estadounidense",
+    "Código": "USD",
+    "Número": "840"
+  },
+  {
+    "País": "WALLIS Y FUTUNA",
+    "Divisa": "Franco CFP",
+    "Código": "XPF",
+    "Número": "953"
+  },
+  {
+    "País": "SAHARA OCCIDENTAL",
+    "Divisa": "Dirham marroquí",
+    "Código": "MAD",
+    "Número": "504"
+  },
+  {
+    "País": "YEMEN",
+    "Divisa": "Rial yemení",
+    "Código": "YER",
+    "Número": "886"
+  },
+  {
+    "País": "ZAMBIA",
+    "Divisa": "Kwacha zambiano",
+    "Código": "ZMW",
+    "Número": "967"
+  },
+  {
+    "País": "ZIMBABUE",
+    "Divisa": "Dólar zimbabuense",
+    "Código": "ZWL",
+    "Número": "932"
+  }
+]
