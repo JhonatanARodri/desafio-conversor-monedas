@@ -30,12 +30,5 @@ public class ConsultaConversion {
         } catch (Exception e) {
             throw new RuntimeException("Convsersión no encontrada");
         }
-
-//        client.sendAsync(request, HttpResponse.BodyHandlers.ofString())
-//                .thenApply(HttpResponse::body)
-//                .thenAccept(System.out::println)
-//                .join();
-
-
     }
 }
